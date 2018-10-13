@@ -1,0 +1,7 @@
+{
+  "name": "PandaGuard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
